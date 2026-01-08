@@ -1,4 +1,4 @@
-<h1 align="center">Ponpanon!</h1>
+<h1 align="center">Ponpanon</h1>
 
 
 
